@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var chart = echarts.init(document.getElementById("chart"));
+    var chart = echarts.init(document.getElementById("chart1"));
 
     var option = {
         legend: { top: "bottom" },
